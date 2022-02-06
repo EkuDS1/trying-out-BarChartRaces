@@ -1,2 +1,3 @@
-# trying-out-BarChartRaces
-Bar Chart Race for South Asian Literacy Rates over the past 40 years
+# Watching South Asian Literacy Rates duke it out for 40 years
+
+Details in Google Colab notebook
